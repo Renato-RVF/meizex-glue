@@ -641,4 +641,4 @@ with one critical constraint:
 
 **MEIZEX**
 
-Agora é literalmente: **Ctrl+A no README → colar esta caixa inteira → Commit changes**.
+

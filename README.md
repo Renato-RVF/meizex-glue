@@ -583,6 +583,13 @@ Individual components should be classified independently as:
     EXPERIMENTAL
     PLANNED
 
+Current status of the components named above:
+
+- **MEIZEX GLUE** (this document): **EXPERIMENTAL** — architectural
+  concept, no production implementation disclosed.
+- **MEIZEX AIR**: **IMPLEMENTED** (partial, active increments).
+- **MEIZEX Quality Gate, Harness, PLEX**: status not yet classified here.
+
 Existing MEIZEX components and experiments may provide foundations for parts of this architecture, but this public document intentionally distinguishes architectural intent from implementation status.
 
 ---
@@ -640,5 +647,3 @@ with one critical constraint:
 ---
 
 **MEIZEX**
-
-
